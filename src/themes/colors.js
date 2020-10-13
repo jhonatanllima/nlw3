@@ -10,6 +10,7 @@ export default {
   darkBlue: '#363d41',
   lightBlue: '#50e3c2',
   babyBlue: '#96feff',
+  buttonBlue: '#15c3d6',
 
   borderColor: '#A7B8C4',
 
