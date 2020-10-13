@@ -8,6 +8,7 @@ export const Container = styled.section`
   display:flex;
   width: 100vw;
   height: 100vh;
+  padding: 20px;
   align-items: center;
   justify-content: center;
 
